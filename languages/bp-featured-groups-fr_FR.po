@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Featured Members\n"
+"POT-Creation-Date: 2019-04-03 01:48+0200\n"
+"PO-Revision-Date: 2019-04-04 01:42+0200\n"
+"Last-Translator: BuddyDev.com\n"
+"Language-Team: BuddyDev\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../core/bp-featured-groups-admin.php:26
+msgid "BP Featured Groups"
+msgstr "BP Groupes mis en avant"
+
+#: ../core/bp-featured-groups-admin.php:61
+msgid "Banner Options"
+msgstr "Options du bandeau"
+
+#: ../core/bp-featured-groups-admin.php:64
+msgid "Enable Banner"
+msgstr "Activer le bandeau"
+
+#: ../core/bp-featured-groups-admin.php:67
+msgid "Title Before"
+msgstr "Titre avant"
+
+#: ../core/bp-featured-groups-admin.php:70
+msgid "Title After"
+msgstr "Titre après"
+
+#: ../core/bp-featured-groups-admin.php:73
+msgid "Max Groups to show"
+msgstr "Nb max. de groupes à afficher"
+
+#: ../core/bp-featured-groups-admin.php:76
+msgid "Avatar_size"
+msgstr "Taille de l'avatar"
+
+#: ../core/bp-featured-groups-admin.php:79
+msgid "Avatar Type"
+msgstr "Type d'avatar"
+
+#: ../core/bp-featured-groups-admin.php:82
+msgid "Group Type"
+msgstr "Type de groupe"
+
+#: ../core/bp-featured-groups-admin.php:85
+msgid "Banner Type"
+msgstr "Type de bandeau"
+
+#: ../core/bp-featured-groups-admin.php:92
+msgid ""
+"<p>You can choose to add a banner to the groups directory page showing the "
+"featured groups. Here you can enable the banner, set a title to display "
+"before and after the banner and specify the size and type of avatar to "
+"display.</p>"
+msgstr ""
+"<p>Vous pouvez choisir d’ajouter un bandeau sur la page de présentation des "
+"groupes mis en avant. Ici, vous pouvez activer le bandeau, définir un titre "
+"à afficher avant et après ce bandeau et spécifier la taille et le type "
+"d'avatar à afficher.</p>"
+
+#: ../core/bp-featured-groups-admin.php:99
+msgid "Group Directory Banner Enabled"
+msgstr "Bandeau de groupes activé"
+
+#: ../core/bp-featured-groups-admin.php:106
+msgid "Add a title before the banner"
+msgstr "  Ajouter un titre avant le bandeau"
+
+#: ../core/bp-featured-groups-admin.php:113
+msgid "Add a title after the banner"
+msgstr "  Ajouter un titre après le bandeau"
+
+#: ../core/bp-featured-groups-admin.php:120
+msgid "Maximum groups to show in the banner"
+msgstr "  Nombre maximum de groupes à afficher dans le bandeau"
+
+#: ../core/bp-featured-groups-admin.php:127
+#, php-format
+msgid "Avatar Size, e.g. 100px, 100% etc."
+msgstr "  Taille de l'avatar, ex. 100px, 100% etc."
+
+#: ../core/bp-featured-groups-admin.php:135
+msgid "Full Size"
+msgstr "Taille entière"
+
+#: ../core/bp-featured-groups-admin.php:136
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: ../core/bp-featured-groups-admin.php:154
+msgid ""
+"Specify a group type to display (leave blank if you have not configured "
+"group types)"
+msgstr ""
+"  Indiquer un type de groupe à afficher (laisser vide si vous n'avez pas "
+"configuré de types de groupe)"
+
+#: ../core/bp-featured-groups-admin.php:163
+msgid "Grid"
+msgstr "Grille"
+
+#: ../core/bp-featured-groups-admin.php:164
+msgid "List Type 1"
+msgstr "Liste Type 1"
+
+#: ../core/bp-featured-groups-admin.php:165
+msgid "List Type 2"
+msgstr "Liste Type 2"
+
+#: ../core/bp-featured-groups-functions.php:14
+msgid "List"
+msgstr "Liste"
+
+#: ../core/bp-featured-groups-functions.php:15
+msgid "Slider"
+msgstr "Diaporama"
+
+#: ../core/bp-featured-groups-functions.php:16
+msgid "Theme Default"
+msgstr "Thème par défaut"
+
+#: ../core/bp-featured-groups-functions.php:126
+#: ../templates/groups-loop-list2.php:81
+msgid "There were no groups found."
+msgstr "Aucun groupe n'a été trouvé."
+
+#: ../core/class-bp-featured-groups-ajax-handler.php:29
+msgid "You don't have permission."
+msgstr "Vous n'avez pas la permission."
+
+#: ../core/class-bp-featured-groups-ajax-handler.php:36
+#: ../core/class-featured-groups-template-helper.php:34
+msgid "Set Featured"
+msgstr "Mettre en avant"
+
+#: ../core/class-bp-featured-groups-ajax-handler.php:39
+#: ../core/class-featured-groups-template-helper.php:34
+msgid "Remove Featured"
+msgstr "Supprimer la mise en avant"
+
+#: ../core/class-bp-featured-groups-widget.php:27
+msgid "BuddyPress Featured Groups"
+msgstr "Groupes BuddyPress mis en avant"
+
+#: ../core/class-bp-featured-groups-widget.php:137
+msgid "Featured Groups"
+msgstr "Groupes mis en avant"
+
+#: ../core/class-bp-featured-groups-widget.php:172
+msgid "Title:"
+msgstr "Titre :"
+
+#: ../core/class-bp-featured-groups-widget.php:181
+msgid "Max. number of groups to show:"
+msgstr "Nb max. de groupes à afficher :"
+
+#: ../core/class-bp-featured-groups-widget.php:188
+msgid "Avatar size:"
+msgstr "Taille de l'avatar :"
+
+#: ../core/class-bp-featured-groups-widget.php:196
+msgid "Filter by Group Type"
+msgstr "Filtrer par type de groupe"
+
+#: ../core/class-bp-featured-groups-widget.php:198
+msgid "N/A"
+msgstr "N/A"
+
+#: ../core/class-bp-featured-groups-widget.php:210
+msgid "Display View:"
+msgstr "Afficher :"
+
+#: ../core/class-bp-featured-groups-widget.php:220
+msgid "Slide Options"
+msgstr "Options du diaporama"
+
+#: ../core/class-bp-featured-groups-widget.php:223
+msgid "Slide items:"
+msgstr "Éléments du diaporama :"
+
+#: ../core/class-bp-featured-groups-widget.php:230
+msgid "Slide margin:"
+msgstr "Marges du diaporama :"
+
+#: ../core/class-bp-featured-groups-widget.php:237
+msgid "Slide mode"
+msgstr "Mode de transition"
+
+#: ../core/class-bp-featured-groups-widget.php:239
+msgid "Slide"
+msgstr "Défilement"
+
+#: ../core/class-bp-featured-groups-widget.php:240
+msgid "Fade"
+msgstr "Fondu"
+
+#: ../core/class-bp-featured-groups-widget.php:247
+msgid "Slide speed:"
+msgstr "Vitesse de défilement :"
+
+#: ../core/class-bp-featured-groups-widget.php:254
+msgid "Slide auto:"
+msgstr "Défilement auto :"
+
+#: ../core/class-bp-featured-groups-widget.php:256
+#: ../core/class-bp-featured-groups-widget.php:266
+#: ../core/class-bp-featured-groups-widget.php:276
+#: ../core/class-bp-featured-groups-widget.php:286
+msgid "True"
+msgstr "Vrai"
+
+#: ../core/class-bp-featured-groups-widget.php:257
+#: ../core/class-bp-featured-groups-widget.php:267
+#: ../core/class-bp-featured-groups-widget.php:277
+#: ../core/class-bp-featured-groups-widget.php:287
+msgid "False"
+msgstr "Faux"
+
+#: ../core/class-bp-featured-groups-widget.php:264
+msgid "Slide pause Hover:"
+msgstr "Pause du défilement en survol :"
+
+#: ../core/class-bp-featured-groups-widget.php:274
+msgid "Slide controls:"
+msgstr "Contrôles du diaporama :"
+
+#: ../core/class-bp-featured-groups-widget.php:284
+msgid "Slide loop:"
+msgstr "Boucle du diaporama :"
+
+#: ../core/class-featured-groups-template-helper.php:86
+#, php-format
+msgid "Featured Groups %s"
+msgstr "Groupes mis en avant %s"
+
+#: ../templates/groups-loop-grid.php:34 ../templates/groups-loop-list.php:40
+#: ../templates/groups-loop-slider.php:43
+msgid "Sorry, no groups were found."
+msgstr "Désolé, aucun groupe n'a été trouvé."
+
+#: ../templates/groups-loop-list2.php:45
+#, php-format
+msgid "active %s"
+msgstr "actif %s"
